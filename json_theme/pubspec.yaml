@@ -1,10 +1,11 @@
 name: 'json_theme'
 description: 'A library to dynamically generate a ThemeData object from a JSON file or dynamic map object'
 homepage: 'https://github.com/peiffer-innovations/json_theme'
-version: '6.5.3+7'
+version: '7.0.0-dev.1'
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
+  flutter: ^3.27.0-0.1.pre
 
 analyzer:
   exclude:
